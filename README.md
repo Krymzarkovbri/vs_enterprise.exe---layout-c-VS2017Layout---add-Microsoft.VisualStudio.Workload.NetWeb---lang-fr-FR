@@ -1,0 +1,1 @@
+# vs_enterprise.exe---layout-c-VS2017Layout---add-Microsoft.VisualStudio.Workload.NetWeb---lang-fr-FR
